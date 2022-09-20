@@ -1,8 +1,8 @@
 function Verificar1() {
-    var a1 = document.querySelector('input.input1');
+    let a1 = document.querySelector('input.input1');
     
 
-    var d1 = document.querySelector('div.div1');
+    let d1 = document.querySelector('div.div1');
 
     d1.innerHTML = `<b>O resultado da mistura ${a1.value} é igual a</b>  `
 
