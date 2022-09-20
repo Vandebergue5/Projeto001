@@ -1,0 +1,28 @@
+.body1 {
+    background: aqua;   
+}
+
+.h1 {
+    
+    margin: 100px 100px 50px 100px;
+    text-align: center;
+    background-color: white;
+    padding: 25px 25px 25px 25px;
+    border-radius: 30px;
+    border: solid black 3px;
+    font-size: 25px;
+    
+}
+
+
+.div1 {
+
+    margin: 10px 100px 50px 100px;
+    background: white;
+    border-radius: 30px;
+    border: solid black 3px;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+
+}
+
